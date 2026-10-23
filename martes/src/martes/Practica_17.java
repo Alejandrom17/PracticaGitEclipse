@@ -18,7 +18,7 @@ public class Practica_17 {
         primeracifra = numero; 
         
         if (numero >= 0) { 
-
+            System.out.println("La primera cifra de tu numero es: " + primeracifra);
         } else { 
             System.out.println("Introduces un numero negativo. Su primera cifra es: " + primeracifra); 
         } 
